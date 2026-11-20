@@ -1,0 +1,8 @@
+{
+  "name": "Kenali Bedanya!",
+  "description": "Asesmen edukatif interaktif untuk peserta didik dalam membedakan konsep Konflik, Kekerasan, dan Perundungan melalui 25 soal cerita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
